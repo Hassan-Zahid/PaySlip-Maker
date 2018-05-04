@@ -4,8 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Run Application
 
-Run, `npm install` in root dir of application to download npm packages.
-Run, `npm run app_prod_start` in root dir of application to serve it. Navigate to `http://localhost:4000/`.
+1. Run, `npm install` in root dir of application to download npm packages.
+2. Run, `npm run app_prod_start` in root dir of application to serve it. Navigate to `http://localhost:4000/`.
 
 ## Further help
 
